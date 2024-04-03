@@ -1,0 +1,30 @@
+h1 {
+  color: orange;
+  margin-left: 60px;
+  padding: 10px ;
+  background-color: #000080;
+  border-radius:30px;
+}
+
+.very-green {
+  color: green;
+}
+
+.btn {
+ cursor: pointer;
+}
+
+body {
+  background-color:	#c0c0c0;
+  color:white;
+}
+
+
+img {
+  .picture-border
+  border-width:60px;
+  border-color: purple;
+  border-style: dashed;
+  border-radius: 30px;
+  margin: 5em 40em 5em 40em;
+}
